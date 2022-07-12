@@ -1,8 +1,8 @@
-# backend advanced auth user using Mern stack
+# advanced backend auth user using Mern stack
 
 ## `Introduction`
 
-built and create advanced advanced auth user (`login`, `sign-up`,  `forget password`, `jwt middleware`, `validation errors` and more...) for products .\
+built and create advanced auth user (`login`, `sign-up`,  `forget password`, `jwt middleware`, `validation errors` and more...).\
 
 ## `Backend`
 
