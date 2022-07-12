@@ -10,7 +10,7 @@ const PrivateScreen = ({history}) => {
         }
         const fetchprivateDate = async ()=>{
             try {
-                const config = await {
+                const config = {
                     headers :{
                         "content-type": "application/json",
                         Authorization: `Bearer ${localStorage.getItem('authToken')}`
